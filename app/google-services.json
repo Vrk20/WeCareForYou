@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926561442259",
+    "project_id": "wecareforyou-2384c",
+    "storage_bucket": "wecareforyou-2384c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926561442259:android:46c3d0d30abcd076af3726",
+        "android_client_info": {
+          "package_name": "com.example.wecareforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926561442259-gho0r40296luqn8g6m67jccdjiebn3tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_PFdPa3Y6yCNTCGmTdqfZooY0TE4DpW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926561442259-gho0r40296luqn8g6m67jccdjiebn3tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
